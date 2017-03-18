@@ -1,5 +1,5 @@
 # Programming Project - Unit 1,1
-*by Igor A. Brandão -> 2014041985*
+*by Igor A. Brandão*
 
 **Goals**
 - Reinforce and practice main ideas and skills presented in the first
